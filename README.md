@@ -13,7 +13,7 @@ SpotHustle is an innovative application designed to revolutionize the way parkin
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/spothustle.git
+    git clone https://github.com/devikaranade/SpotHustle.git
     cd spothustle
     ```
 
