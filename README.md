@@ -1,6 +1,6 @@
 # SpotHustle
 
-SpotHustle is an innovative application designed to revolutionize the way parking spots are managed and utilized. SpotHustle offers a streamlined platform where individuals can auction their available parking spots for others to conveniently use.
+SpotHustle is a React-based innovative application designed to revolutionize the way parking spots are managed and utilized. SpotHustle offers a streamlined platform where individuals can auction their available parking spots for others to conveniently use.
 
 ## Features
 
