@@ -48,3 +48,8 @@ SpotHustle is a React-based innovative application designed to revolutionize the
 <img width="700" height="400" alt="4" src="https://github.com/devikaranade/SpotHustle/assets/41178447/5b717725-9444-4971-8621-c2b245f100ee">
 
 
+## Future Scope
+- Add time wise slot booking and auctioning
+- Users can register themselves on the platform
+- And many more features...(Any suggestions are welcome)
+
