@@ -31,3 +31,14 @@ SpotHustle is an innovative application designed to revolutionize the way parkin
 
 4. Open your browser and navigate to `http://localhost:3000` to see the application running.
 
+### Screenshots
+## List of available parking spots up for auction
+<img width="700" height="400" alt="1" src="https://github.com/devikaranade/SpotHustle/assets/41178447/56ccfd3f-71e5-4738-8bc1-d3a12a53a1b3">
+
+## Bidding
+<img width="700" height="400" alt="2" src="https://github.com/devikaranade/SpotHustle/assets/41178447/d9abeec9-c222-47e3-a865-015d323710d0">
+
+## Changes
+<img width="700" height="400" alt="3" src="https://github.com/devikaranade/SpotHustle/assets/41178447/f3a5af6c-cee4-4855-b50e-84569622a7f2">
+
+
