@@ -16,7 +16,9 @@ body {
 }
 
 .navbar {
-  background-color: #333;
+  /* background-color: #333; */
+  background-color: #615EFC;
+  height: 60px;
   overflow: hidden;
   margin: 0;
   padding: 0;
@@ -35,14 +37,18 @@ body {
 }
 
 .navbar ul li a:hover {
-  background-color: #ddd;
+  background-color: #EEEEEE;
+  border-radius: 5px;
   color: black;
 }
 
+
+
 .header {
-  background-color: #282c34;
-  padding: 20px;
-  color: white;
+  /* background-color: #282c34; */
+  background-color: #D1D8C5;
+  padding: 3px;
+  color: black;
 }
 
 .logo {
@@ -51,17 +57,37 @@ body {
 }
 
 .about {
-  background-color: #f9f9f9;
-  padding: 20px;
+  /* background-color: #f9f9f9; */
+  background-color: #EEEEEE;
+  padding: 3px;
+ 
 }
+
+.about p {
+  padding: 3px;
+  margin: 10px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+/* 
+.header h1 {
+  align-items: center;
+  width: 250px;
+  background: #EEEEEE;
+  border-radius: 5px;
+} */
 
 .auction {
   margin: 20px;
 }
 
 .reviews {
-  background-color: #f9f9f9;
+  /* background-color: #f9f9f9; */
+  background-color: #EEEEEE;
   padding: 20px;
+  border-radius: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 .contact {
@@ -83,30 +109,10 @@ input,
 textarea {
   padding: 10px;
   margin-bottom: 10px;
-  border: 1px solid #ddd;
+  border: 1px solid #EEEEEE;
   border-radius: 3px;
   width: 100%;
 }
-
-button {
-  padding: 10px 20px;
-  border: none;
-  background-color: #61dafb;
-  color: white;
-  border-radius: 3px;
-  cursor: pointer;
-}
-
-button:hover {
-  background-color: #21a1f1;
-}
-
-.header {
-  background-color: #282c34;
-  padding: 20px;
-  color: white;
-}
-
 
 .auction-list {
   display: flex;
@@ -116,8 +122,10 @@ button:hover {
 }
 
 .card {
-  background: #f9f9f9;
-  border: 1px solid #ddd;
+  /* background: #f9f9f9; */
+  background: #EEEEEE;
+  /* border: 1px solid #ddd; */
+  border: #EEEEEE;
   border-radius: 5px;
   padding: 20px;
   margin: 10px;
@@ -132,14 +140,14 @@ form {
 input {
   padding: 10px;
   margin-right: 10px;
-  border: 1px solid #ddd;
+  border: 1px solid #EEEEEE;
   border-radius: 3px;
 }
 
 button {
   padding: 10px 20px;
   border: none;
-  background-color: #61dafb;
+  background-color: #7E8EF1;
   color: white;
   border-radius: 3px;
   cursor: pointer;
@@ -148,21 +156,13 @@ button {
 button:hover {
   background-color: #21a1f1;
 }
- 
-    .footer {
-      background-color: #282c34;
-      color: white;
-      padding: 20px;
-      position: fixed;
-      width: 100%;
-      bottom: 0;
-}
-
 
 .footer {
-  background-color: #282c34;
+  /* background-color: #282c34; */
+  background-color: #615EFC;
   color: white;
-  padding: 3px;
+  /* padding: 3px; */
+  height: 50px;
   position: fixed;
   width: 100%;
   bottom: 0;
